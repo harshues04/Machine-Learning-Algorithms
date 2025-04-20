@@ -36,7 +36,6 @@ Clone the repository and open the notebooks using Jupyter:
 ```bash
 git clone https://github.com/harshues04/machine-learning-notebooks.git
 cd machine-learning-notebooks
-jupyter notebook
 ```
 
 ## Requirements
