@@ -49,4 +49,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ## License
 
-This project is licensed under the terms of the MIT LICENSE file.
+This project is licensed under the terms of the MIT LICENSE.
